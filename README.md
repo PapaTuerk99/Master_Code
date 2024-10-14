@@ -1,1 +1,1 @@
-Die Implementierungen meiner Masterarbeit. Nur ein kleiner Teil ist in Python und der Rest in R. 
+Die Implementierungen meiner Masterarbeit. Nur ein kleiner Teil ist in Python und der Rest in R. Der Code ist chronologisch und funktioniert nur, falls es in der Reihenfolge ausgeführt wird. Leider benötigt man RTool, da dynsbm archiviert wurde. Für den Phython Code benötigt man graph-tool, wodurch man insbesondere Ubuntu installiert haben muss.  
